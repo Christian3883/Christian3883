@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian Gomez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Atos](https://atos.net/es-ar/argentina)
+- 🔭 I’m currently working as contractor / freelance software engineer
 
-- 🌱 I’m currently learning **Node Js, React, Python and Linux**
+- 🌱 I’m currently learning **Node Js, React, Python, Biometrics, and Linux**
 
 - 📫 How to reach me **christian.gomez.cantero@gmail.com**
 
