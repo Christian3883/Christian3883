@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Gomez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 Currently working as contractor / freelance software engineer
+- 🔭 Currently working as a contractor / freelance software engineer
 
 - 🌱 Currently learning **Node Js, React, Python, Biometrics, and Linux**
 
