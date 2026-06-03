@@ -3,7 +3,7 @@
 
 - 🔭 Currently working as a contractor / freelance software engineer
 
-- 🌱 Currently learning **Node Js, React, Python, Biometrics, and Linux**
+- 🌱 Software Engineer | Senior .NET Developer | Microsoft Technologies 
 
 - 📫 How to reach me **christian.gomez.cantero@gmail.com**
 
